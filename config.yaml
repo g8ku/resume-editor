@@ -1,0 +1,13 @@
+overleaf:
+  project_name: "My Resume"  # Change this to your Overleaf project name
+  resume_file: "resume.tex"  # Path to your resume file in the project
+  host: null  # Leave as null for overleaf.com, or specify custom host
+
+claude:
+  model: "claude-sonnet-4-5-20250929"
+  max_tokens: 4096
+  
+editor:
+  show_diff: true  # Show diff before applying changes
+  require_confirmation: true  # Ask for confirmation before uploading
+  create_backup: true  # Create backup before editing
