@@ -1,14 +1,14 @@
 # Resume Editor with Claude & Overleaf
 
-I powered app that helps you edit your Overleaf resume using Claude. Simply give natural language instructions like "tailor my resume for a software engineer position at Google" and Claude will intelligently edit your resume.
+App that helps you edit your Overleaf resume using Claude. Simply give natural language instructions like "tailor my resume for a software engineer position at XYZ" and Claude will intelligently edit and optimize your resume.
 
 ## Features
 
-- 🤖 Natural language editing using Claude AI
-- 📝 Direct integration with Overleaf projects
-- 🎯 Tailors resumes for specific job positions
-- 💾 Automatic backup before edits
-- 🔄 Interactive editing sessions
+-  Natural language editing using Claude AI
+-  Direct integration with Overleaf projects
+-  Tailors resumes for specific job positions
+- Automatic backup before edits
+-  Interactive editing sessions
 
 ## Prerequisites
 
